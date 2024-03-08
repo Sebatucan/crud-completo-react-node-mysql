@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
      
-<h1>kuakkk</h1>
+<h1>Inicio de CRUD</h1>
 
 
      
